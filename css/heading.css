@@ -1,0 +1,13 @@
+/* Стиль для заголовка */
+h1 {
+    font-family: "Courier New", monospace;
+    font-size: 16px;
+    font-style: italic;
+    text-indent: 1em;
+    white-space: nowrap;
+    page-break-before: always;
+    text-align: right;
+    margin-bottom: 16pt;
+    color: #E6EAD6;
+    /* Цвет заголовка */
+}

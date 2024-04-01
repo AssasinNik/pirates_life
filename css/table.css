@@ -1,0 +1,12 @@
+table {
+    border-collapse: collapse;
+    border: 2px;
+    border-color: #B1D12D;
+}
+
+ul {
+    list-style-type: disc;
+    /* Тип маркеров */
+    color: #B1D12D;
+    /* Цвет маркеров */
+}

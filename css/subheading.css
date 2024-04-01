@@ -1,0 +1,16 @@
+/* Стиль для подзаголовка */
+h2 {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    text-transform: lowercase;
+    text-align: right;
+    margin-bottom: 12pt;
+    line-height: 20pt;
+    color: #E6EAD6;
+    /* Цвет подзаголовка */
+    text-shadow: -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+    /* Тень, создающая впечатление вдавленности */
+}

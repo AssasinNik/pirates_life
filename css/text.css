@@ -1,0 +1,11 @@
+/* Стиль основного текста */
+p {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: justify;
+    text-indent: 1.5cm;
+    line-height: 1.5;
+    color: #B1D12D;
+    /* Цвет основного текста */
+}
